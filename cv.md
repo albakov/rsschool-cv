@@ -15,7 +15,7 @@ so I try to match to it.
 * Also I use many other technologies such as Memcached/Redis, Websockets, WebRTC and etc
 * I can configure server with Nginx + PHP-FPM, or Apache
 
-#### Project
+#### Projects
 
 My last public repos are here:
 https://github.com/albakov?tab=repositories
