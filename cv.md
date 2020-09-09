@@ -1,6 +1,6 @@
 # Ismail Albakov
 
-#### Contact information:
+#### Contact information
 * phone: 8 (999) 888 77-66
 * email: my-real-email@here.com
 
