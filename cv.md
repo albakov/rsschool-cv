@@ -22,7 +22,7 @@ https://github.com/albakov?tab=repositories
 
 Unfortunately my biggest projects are hidden for privacy reasons, so I can't show them.
 
-#### Experiences
+#### Experience
 * I have finished many different projects: from landing pages to shops and services
 * I have worked with Sphinx for fast searching in BigData (more than 10 million records)
 * I have experience in Android development from scratching to publishing in Google Play Market
